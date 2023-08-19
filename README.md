@@ -28,7 +28,10 @@ I'm Rishabh, a passionate and quick-learning final year student with a strong af
 
 ## Projects
 
-projects are comming
+* CLI Based java setup program to connect mysql using jdbc api.
+* Nextjs Authentication app using jwt, mailtrap.
+* CLI Based Library management program - (upcomming).
+*  
 
 ## Get in Touch👇🏼
 

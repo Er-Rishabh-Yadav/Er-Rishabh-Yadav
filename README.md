@@ -1,12 +1,12 @@
 # Hi there! 👋
 
-I'm Rishabh, a passionate and quick-learning final year student with a strong affinity for Java programming and full-stack web development. Welcome to my GitHub profile!
+I'm Rishabh, a passionate and quick-learning final year student with a strong affinity for JavaScript programming and full-stack web development. Welcome to my GitHub profile!
 
 
 
 # About Me
 
-💻 I'm well-versed in Java and constantly exploring new technologies.
+💻 I'm well-versed in JavaScript and constantly exploring new technologies.
 
 🌐 Skilled in the MERN stack (MongoDB, Express.js, React, Node.js) for crafting powerful web applications.
 
@@ -17,7 +17,7 @@ I'm Rishabh, a passionate and quick-learning final year student with a strong af
 
 ## My Tech Stack
 
-### Languages: Java, JavaScript, HTML, CSS
+### Languages:JavaScript, Python, Java, HTML, CSS
 
 ### Front-end: React, Bootstrap, HTML, CSS
 
